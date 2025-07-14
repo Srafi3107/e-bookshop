@@ -1,6 +1,7 @@
 An interactive e-commerce frontend for a fictional online bookstore built with React.js. Users can browse books, add them to a cart, update quantities, and proceed to a simulated checkout
 
  Features
+ 
  1. Product listing with book images, prices & descriptions
 
  2. Add to Cart, Increase/Decrease quantity, Remove items
@@ -19,6 +20,7 @@ An interactive e-commerce frontend for a fictional online bookstore built with R
 
 
 Tech Stack Used
+
 React.js – Frontend library. 
 
 Context API – State management for cart
