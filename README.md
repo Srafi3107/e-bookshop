@@ -1,6 +1,6 @@
 An interactive e-commerce frontend for a fictional online bookstore built with React.js. Users can browse books, add them to a cart, update quantities, and proceed to a simulated checkout
 
- Features
+-> Features:
  
  1. Product listing with book images, prices & descriptions
 
@@ -13,13 +13,13 @@ An interactive e-commerce frontend for a fictional online bookstore built with R
  5. Responsive design with sidebar cart
 
 
- How to Run Locally
+-> How to Run Locally:
  1. Clone the repository
  2. Install dependencies
  3. Start the development server
 
 
-Tech Stack Used
+-> Tech Stack Used:
 
 React.js – Frontend library. 
 
