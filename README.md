@@ -19,9 +19,12 @@ An interactive e-commerce frontend for a fictional online bookstore built with R
 
 
 Tech Stack Used
-React.js – Frontend library
+React.js – Frontend library. 
+
 Context API – State management for cart
+
 CSS (inline styles) – Styling components
+
 Local image assets – Book images stored locally
 
 
